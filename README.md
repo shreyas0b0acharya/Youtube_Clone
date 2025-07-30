@@ -118,18 +118,6 @@ npm start
 
 ---
 
-## 👤 Author
-
-**Shreyas B. Acharya**
-Student at VTU | React Developer | CSE Enthusiast
-📍 India
-
-* [GitHub](https://github.com/shreyu-acharya)
-* [LinkedIn](https://linkedin.com/in/your-link) *(add yours)*
-* [Portfolio](https://your-portfolio.com) *(if any)*
-
----
-
 ## 🧠 Learning Outcome
 
 This project taught me how to:
