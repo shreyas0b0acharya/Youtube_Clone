@@ -69,9 +69,7 @@ YouTube API has a free quota of 5000 units/day. Each **search** costs **100 unit
 ---
 
 
-## 🔍 Side-by-Side Comparison
-
-I aimed for visual fidelity. Here’s how my clone stacks up against real YouTube:
+## Here’s how my clone
 
 | Desktop – Home | Desktop – Search |
 |---------------|------------------|
@@ -79,7 +77,7 @@ I aimed for visual fidelity. Here’s how my clone stacks up against real YouTub
 
 | Mobile – Home | Mobile – Search |
 |--------------|-----------------|
-| ![mobile_view_home](./readme_assets/mobile_view_home.gif) | ![mobile_view_search](./readme_assets/mobile_view_search.gif) |
+| ![mobile_view_home](./readme_assets/mobile_view_home.gif)    | ![mobile_view_search](./readme_assets/mobile_view_search.gif)   |
 
 
 While not 100% identical, the core layout, spacing, typography, and interaction patterns are closely matched.
